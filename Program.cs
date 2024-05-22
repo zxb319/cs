@@ -3,7 +3,7 @@
 namespace cs {
     internal class Program {
         static void Main(string[] args) {
-            Funcs.PrintTree(@"D:\weiyun\csprj\csprj\csprj");
+            Console.WriteLine("Hello, World!");
         }
     }
 }
